@@ -1,1 +1,2 @@
 This is a chapter6
+Chapter6 is going to merge
